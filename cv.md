@@ -10,7 +10,7 @@
 ### Summary:
 I graduated from Russian State Agrarian University as a Bachelor of Agribusiness. Next I got interested in programming and found myself in Frontend Development.
 My goal is to become a Senior Frontend Developer with strong hard and soft skills in next 2-3 years.
-I am currently open to an employer and looking for a Junior Frontend Developer or Internship program.
+I am currently open to an employer and looking for a Junior Frontend Developer position or Internship program.
 
 ---
 ### Work experience
