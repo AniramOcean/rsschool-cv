@@ -12,6 +12,11 @@
     * Homework [HTML5, CSS3, JavaScript](https://github.com/AniramOcean/TFS-2020-homework/tree/master/JS%20homework)
     * Homework [Angular, TypeScript](https://github.com/AniramOcean/TFS-2020-homework/tree/master/Angular%20homework)
     * Final Angular project [trello clone](https://github.com/AniramOcean/TFS-course-work)
+  
+- Udemy:
+    * Angular [blog](https://github.com/AniramOcean/blog)
+    * Angular [organizer](https://github.com/AniramOcean/Angular-Organizer)
+  
 - Code example
     * Simple javascript [todo app](https://aniramocean.github.io/Todo-JS/)
     * Angular [parser table](https://aniramocean.github.io/test-table-angular/)
@@ -38,3 +43,10 @@
 ---
 ### Education
 - Russian State Agrarian University - Moscow Timiryazev Agricultural Academy - Agribusiness
+- Tinkoff Fintech School - Frontend Development
+- Coursera, Udemy, Stepik - HTML, CSS, JavaScript, SQL 
+
+### Languages
+- Russian - native speaker
+- English (B2)
+- Icelandic (A1)
