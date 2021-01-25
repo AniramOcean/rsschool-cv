@@ -7,8 +7,14 @@
 * Telegram: [@aniram_ocean](https://t.me/aniram_ocean)
 
 ---
+### Summary:
+I graduated from Russian State Agrarian University as a Bachelor of Agribusiness. Next I got interested in programming and found myself in Frontend Development.
+My goal is to become a Senior Frontend Developer with strong hard and soft skills in next 2-3 years.
+I am currently open to an employer and looking for a Junior Frontend Developer or Internship program.
+
+---
 ### Work experience
-- Tinkoff Fintech School - Frontend development student:
+- Tinkoff Fintech School - as a Frontend development student:
     * Homework [HTML5, CSS3, JavaScript](https://github.com/AniramOcean/TFS-2020-homework/tree/master/JS%20homework)
     * Homework [Angular, TypeScript](https://github.com/AniramOcean/TFS-2020-homework/tree/master/Angular%20homework)
     * Final Angular project [trello clone](https://github.com/AniramOcean/TFS-course-work)
@@ -17,7 +23,7 @@
     * Angular [blog](https://github.com/AniramOcean/blog)
     * Angular [organizer](https://github.com/AniramOcean/Angular-Organizer)
   
-- Code example
+- Code example:
     * Simple javascript [todo app](https://aniramocean.github.io/Todo-JS/)
     * Angular [parser table](https://aniramocean.github.io/test-table-angular/)
     * ```
