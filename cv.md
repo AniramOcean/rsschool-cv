@@ -35,6 +35,7 @@ I am currently open to an employer and looking for a Junior Frontend Developer o
           .map(q => q.charCodeAt() - 96)
           .join(' ');
       }
+      ```
   
 ---
 ### Skills and competencies
