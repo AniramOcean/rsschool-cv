@@ -26,7 +26,7 @@ I am currently open to an employer and looking for a Junior Frontend Developer o
 - Code example:
     * Simple javascript [todo app](https://aniramocean.github.io/Todo-JS/)
     * Angular [parser table](https://aniramocean.github.io/test-table-angular/)
-    * ```
+    * ```javascript
       function alphabetPosition(text) {
           return text
           .toLowerCase()
