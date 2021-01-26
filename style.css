@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url("img/bg.png");
+    color: antiquewhite;
+}
+
+.wrapper {
+    width: 900px;
+    margin: 20px auto;
+    background: rgba(255,255,255, 0.3);
+}
+
+.user-img {
+    width: 350px;
+    height: 400px;
+    overflow: hidden;
+    position: relative;
+    border-radius: 48% 66% 31% 70% / 61% 36% 66% 54%;
+}
+
+.user-img img {
+    position: absolute;
+    width: 350px;
+    top: -10px;
+    left: 0;
+}
