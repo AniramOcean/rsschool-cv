@@ -1,1 +1,1 @@
-[CV](https://aniramocean.github.io/rsschool-cv/cv)
+[CV](https://aniramocean.github.io/rsschool-cv/)
