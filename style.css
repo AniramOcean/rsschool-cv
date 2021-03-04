@@ -4,7 +4,7 @@ body {
     padding: 0;
     background: no-repeat url("img/bg.png") black;
     background-size: cover;
-    color: antiquewhite;
+    color: #faebd7;
 }
 
 a {
@@ -134,4 +134,32 @@ ul {
 }
 .badge-item:nth-child(4n) {
     background: #220808;
+}
+
+.footer {
+    width: 500px;
+    height: 50px;
+    margin: 0 auto;
+}
+
+.rs-school {
+    border-radius: 4px;
+    background: #ffffff;
+    width: 80px;
+    height: 32px;
+}
+
+.youtube img, .github img {
+    max-width: 30px;
+    vertical-align: middle;
+}
+
+.footer__list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer__list-item .text {
+    vertical-align: middle;
+    height: 40px;
 }
